@@ -1,0 +1,6 @@
+[
+    {
+        "name": "nodesample-app",
+        "imageUri": "103114923094.dkr.ecr.us-west-2.amazonaws.com/myecrregistry:latest"
+    }
+]
