@@ -1,6 +1,6 @@
 [
     {
-        "name": "Container2",
+        "name": "Container_3",
         "imageUri": "103114923094.dkr.ecr.us-west-2.amazonaws.com/myecrregistry:latest"
     }
 ]
